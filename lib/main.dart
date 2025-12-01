@@ -7,11 +7,10 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Ali Başkanim',
+      title: 'Akin Baskanimm',
       theme: ThemeData(
         // This is the theme of your application.
         //
